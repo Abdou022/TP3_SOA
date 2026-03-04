@@ -1,0 +1,21 @@
+{
+  "name": "tp3_soa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdou022/TP3_SOA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Abdou022/TP3_SOA/issues"
+  },
+  "homepage": "https://github.com/Abdou022/TP3_SOA#readme"
+}
